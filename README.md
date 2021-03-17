@@ -1,12 +1,12 @@
 Geology Mining Game
 =================== 
 
-This Geology Mining Game is a great way to study minerals and rocks from the
-three main rock groups: igneous, sedimentary, and metamorphic. But this game 
-is not only educational, it is also very fun! The player takes on the role of 
-a miner and gets to chose where they want to mine. After they chose a site, 
-they can begin mining for gems. A player wins by finding all the hidden gems 
-in their respective mines. Good luck!
+This Geology Mining Game is a great way to study minerals and rocks from the  
+three main rock groups: igneous, sedimentary, and metamorphic. But this game    
+is not only educational, it is also very fun! The player takes on the role of   
+a miner and gets to chose where they want to mine. After they chose a site,   
+they can begin mining for gems. A player wins by finding all the hidden gems   
+in their respective mines. Good luck!  
 
 Features
 --------
@@ -18,10 +18,10 @@ Features
 Description of Equipment
 ------------------------
 
-You will need:
-   Machine that runs a jar file
-   Application that opens a jar file
-   Keyboard to move player around 
+You will need:  
+  - Machine that runs a jar file  
+  - Application that opens a jar file   
+  - Keyboard to move player around   
    
 Code Example
 ------------
@@ -37,18 +37,18 @@ Installation
  
 Install MineGame: 
     
-   Go to https://github.com/lowas1/MineGame/blob/main/MineGame.jar
-   On the right side click 'Download'
-   Drag the download to your Desktop
-   Right click on the file and choose 'Open With' Jar Launcher
-   Choose 'Open' in pop up window
-   Begin playing!
+   Go to https://github.com/lowas1/MineGame/blob/main/MineGame.jar  
+   On the right side click 'Download'  
+   Drag the download to your Desktop  
+   Right click on the file and choose 'Open With' Jar Launcher  
+   Choose 'Open' in pop up window  
+   Begin playing!  
    
 FAQs
 ----
    
 What machines can I run the application on?  
-   Windows and Mac.  
+Windows and Mac.  
 
 What program should I use to launch the jar file?  
    Jar Launcher or other default launcher.  
