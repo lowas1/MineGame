@@ -37,30 +37,30 @@ Installation
  
 Install MineGame: 
     
-   Go to https://github.com/lowas1/MineGame/blob/main/MineGame.jar  
-   On the right side click 'Download'  
-   Drag the download to your Desktop  
-   Right click on the file and choose 'Open With' Jar Launcher  
-   Choose 'Open' in pop up window  
-   Begin playing!  
+> Go to https://github.com/lowas1/MineGame/blob/main/MineGame.jar  
+> On the right side click 'Download'  
+> Drag the download to your Desktop  
+> Right click on the file and choose 'Open With' Jar Launcher  
+> Choose 'Open' in pop up window  
+> Begin playing!  
    
 FAQs
 ----
    
 What machines can I run the application on?  
-Windows and Mac.  
+> Windows and Mac.  
 
 What program should I use to launch the jar file?  
-   Jar Launcher or other default launcher.  
+> Jar Launcher or other default launcher.  
     
 What is the purpose of the game?  
-    To become comfortable identifying what minerals and rocks are igneous, sedimentary, and metamorphic.  
+> To become comfortable identifying what minerals and rocks are igneous, sedimentary, and metamorphic.  
     
 How do I win the game?  
-    By mining all the hidden gems in the mines.  
+> By mining all the hidden gems in the mines.  
     
 Do I have to know anything about geology prior to playing?  
-    No, the game is designed as an introduction to rock types.  
+> No, the game is designed as an introduction to rock types.  
 
 Support
 -------
