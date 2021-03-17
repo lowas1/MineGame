@@ -8,12 +8,10 @@ a miner and gets to chose where they want to mine. After they chose a site,
 they can begin mining for gems. A player wins by finding all the hidden gems   
 in their respective mines. Good luck!  
 
-Features
---------
-
-- Learn about three main rock groups
-- Discover different types of rocks and minerals
-- Mine for hidden gems
+**Features**
+  * Learn about three main rock groups
+  * Discover different types of rocks and minerals
+  * Mine for hidden gems
  
 Description of Equipment
 ------------------------
@@ -71,8 +69,8 @@ I can be reached at lowas@appstate.edu
 Contribute
 ----------
 
-- Issue Tracker: github.com/lowas1/MineGame/issues
-- Source Code: github.com/lowas1/MineGame
+* Issue Tracker: github.com/lowas1/MineGame/issues
+* Source Code: github.com/lowas1/MineGame
  
  
 License
