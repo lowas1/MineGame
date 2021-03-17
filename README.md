@@ -83,20 +83,20 @@ The project is licensed under the BSD license.
 Instructions
 ------------
 
-* Install the game on Machine (refer to installation section)
-* A window with green text about the different rock groups should now be visible
-* After reading, hit 'Continue' at the bottom
-* Another window displaying choices of mining sites should pop up
-* Choose between igneous, metamorphic, and sedimentary
-* The map and player icon should now be visible
-* Move the player icon around using the arrow keys
-* To mine rocks
+1. Install the game on Machine (refer to installation section)
+2. A window with green text about the different rock groups should now be visible
+3. After reading, hit 'Continue' at the bottom
+4. Another window displaying choices of mining sites should pop up
+5. Choose between igneous, metamorphic, and sedimentary
+6. The map and player icon should now be visible
+7. Move the player icon around using the arrow keys
+8. To mine rocks
   * Face the desired rock with the left or right arrow key
   * Click 'M' on the keyboard to mine
   * You can only mine rocks in front of you
   * If nothing happens it means a gem wasn't hidden there 
   * You have infinite mining attempts 
-* Once you find all hidden gems, you will be prompted to play again
+9. Once you find all hidden gems, you will be prompted to play again
   * To exit game, use red x in the upper left hand corner
   * To continue, hit 'Play Again?' and start the process over
    
