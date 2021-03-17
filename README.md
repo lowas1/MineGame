@@ -19,9 +19,9 @@ Description of Equipment
 ------------------------
 
 You will need:  
-  - Machine that runs a jar file  
-  - Application that opens a jar file   
-  - Keyboard to move player around   
+  * Machine that runs a jar file  
+  * Application that opens a jar file   
+  * Keyboard to move player around   
    
 Code Example
 ------------
@@ -37,12 +37,12 @@ Installation
  
 Install MineGame: 
     
-> Go to https://github.com/lowas1/MineGame/blob/main/MineGame.jar  
-> On the right side click 'Download'  
-> Drag the download to your Desktop  
-> Right click on the file and choose 'Open With' Jar Launcher  
-> Choose 'Open' in pop up window  
-> Begin playing!  
+  1. Go to https://github.com/lowas1/MineGame/blob/main/MineGame.jar  
+  2. On the right side click 'Download'  
+  3. Drag the download to your Desktop  
+  4. Right click on the file and choose 'Open With' Jar Launcher  
+  5. Choose 'Open' in pop up window  
+  6. Begin playing!  
    
 FAQs
 ----
@@ -83,22 +83,16 @@ The project is licensed under the BSD license.
 Instructions
 ------------
 
-1. Install the game on Machine (refer to installation section)
-2. A window with green text about the different rock groups should now be visible
-3. After reading, hit 'Continue' at the bottom
-4. Another window displaying choices of mining sites should pop up
-5. Choose between igneous, metamorphic, and sedimentary
-6. The map and player icon should now be visible
-7. Move the player icon around using the arrow keys
-8. To mine rocks
-  * Face the desired rock with the left or right arrow key
-  * Click 'M' on the keyboard to mine
-  * You can only mine rocks in front of you
-  * If nothing happens it means a gem wasn't hidden there 
-  * You have infinite mining attempts 
-9. Once you find all hidden gems, you will be prompted to play again
-  * To exit game, use red x in the upper left hand corner
-  * To continue, hit 'Play Again?' and start the process over
+How to play:
+
+  1. Install the game on Machine (refer to installation section)
+  2. An information window should appear, after reading hit 'Continue' at the bottom
+  3. A new window should now be visible, choose what kind of rock to mine
+  4. The map choosen and player icon should now be visible, to move around use the arrow keys
+  5. To mine rocks face the desired rock with the left or right arrow key
+  6. Click 'M' on the keyboard to mine (you can only mine rocks in front of you) 
+  7. After finding all hidden gems a new window will appear, to continue hit 'Play Again?'
+  8. To quit simply close the active window anytime
    
    
    
