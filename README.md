@@ -97,10 +97,8 @@ The project is licensed under the BSD license.
 Instructions
 ------------
 
-How to play:
+**How to play:**
 
-1 Playing the Game
-------------------
   1. Install the game on Machine (refer to installation section)
   2. An information window should appear, after reading hit 'Continue' at the bottom  
     <img src="https://raw.githubusercontent.com/lowas1/MineGame/main/img/Screen%20Shot%202021-03-17%20at%202.19.28%20PM.png" alt="icon" width="170">
@@ -113,8 +111,8 @@ How to play:
   7. After finding all hidden gems a new window will appear, to continue hit 'Play Again?'  
     <img src="https://raw.githubusercontent.com/lowas1/MineGame/main/img/Screen%20Shot%202021-03-17%20at%202.39.09%20PM.png" alt="icon" width="250">
 
-2 Winning the Game
-------------------
+**How to Win:** 
+
   1. To win the game, the player must locate all the hidden gems
   2. There are nine gems hidden in total, three in each map
   3. When the player is ready to mine hit 'M' on the keyboard, if nothing happens it means no gem was located there
@@ -125,14 +123,15 @@ How to play:
   6. Once a player has found all gems in one map, they can proceed to the next map
   
 
-3 Quitting the Game
--------------------
+**How to Exit:**
+
   1. The player is able to quit at anytime while the application is running
   2. Do do this, simply select the red circle in the upper left hand corner available on any of the main windows  
     <img src="https://raw.githubusercontent.com/lowas1/MineGame/main/img/Screen%20Shot%202021-03-17%20at%202.20.11%20PM.png" alt="icon" width="100">
   
-4 Keys
-------
+
+**Keys:**
+
   1. Igneous key  
     <img src="https://raw.githubusercontent.com/lowas1/MineGame/main/img/igneous_key.png" alt="icon" width="170">
   2. Metamorphic key  
