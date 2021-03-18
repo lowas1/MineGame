@@ -45,7 +45,7 @@ if(m.getMap(x, y).equals("d")) {
 Installation
 ------------
  
-Install MineGame: 
+**How to Install:** 
     
   1. Go to https://github.com/lowas1/MineGame/blob/main/MineGame.jar  
   2. On the right side click 'Download'  
